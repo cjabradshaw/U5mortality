@@ -21,7 +21,7 @@ Under-five child mortality is a consequential marker of population health and de
 ## <a href="https://github.com/cjabradshaw/U5mortality/tree/main/scripts">Scripts</a>
 - <code>U5MR Projections.R</code> (main code)
 
-## <a href="https://github.com/cjabradshaw/U5mortality/tree/main/data">Data</a>
+## <a href="https://github.com/cjabradshaw/U5mortality/tree/master/data">Data</a>
 - <em>births.csv</em>: IIASA births data
 - <em>deaths.csv</em>: IIASA deaths data
 - <em>IF_births.csv</em>: International Futures births data

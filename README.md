@@ -1,5 +1,5 @@
 # Under-five mortality rate projections comparing <a href="https://korbel.du.edu/pardee/international-futures-platform/">International Futures</a>, <a href="https://www.un.org/development/desa/pd/">United Nations Population Division</a>, and <a href="https://iiasa.ac.at/">International Institute for Applied Systems Analysis</a> (IIASA) <a href="https://dataexplorer.wittgensteincentre.org/wcde-v3/">Wittgenstein Centre Population and Human Capital Projections 2023</a> (WIC2023)
-<img align="right" src="www/infmort.png" alt="infant mortality icon" width="180" style="margin-top: 20px">
+<img align="right" src="www/infmort.png" alt="infant mortality icon" width="280" style="margin-top: 20px">
 <br>
 Dr <a href="https://futurechildhealth.org/sanchita-gera/">Sanchita Gera</a><br>
 <a href="https://hsph.harvard.edu">Harvard T.H. Chan School of Public Health</a> & <a href="https://futurechildhealth.org">Future Child Health</a><br>

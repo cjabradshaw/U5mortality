@@ -22,12 +22,12 @@ Under-five child mortality is a consequential marker of population health and de
 - <code>U5MR Projections.R</code> (main code)
 
 ## <a href="https://github.com/cjabradshaw/U5mortality/tree/main/data">Data</a>
-- <em>births.csv</em>: <a href="https://data.un.org/Data.aspx?d=POP&f=tableCode%3a1">United Nations Population Division age structure data from 1950-2021</a>
-- <em>deaths.csv</em>: <a href="https://data.un.org/Data.aspx?d=POP&f=tableCode%3a1">United Nations Population Division data for Angola</a>
-- <em>IF_births.csv</em>: <a href="https://data.un.org/Data.aspx?d=POP&f=tableCode%3a1">United Nations Population Division data for Burundi</a>
-- <em>Master Sheet U5MR Final.csv</em>: <a href="https://data.un.org/Data.aspx?d=POP&f=tableCode%3a1">United Nations Population Division data for Burkina Faso</a>
-- <em>Master Sheet UNPD World.csv</em>: <a href="https://data.un.org/Data.aspx?d=POP&f=tableCode%3a1">United Nations Population Division data for China</a>
-- <em>Master Sheet UNPD.csv</em>: <a href="https://data.un.org/Data.aspx?d=POP&f=tableCode%3a1">United Nations Population Division data for Republic of Congo</a>
+- <em>births.csv</em>: IIASA births data
+- <em>deaths.csv</em>: IIASA deaths data
+- <em>IF_births.csv</em>: International Futures births data
+- <em>Master Sheet U5MR Final.csv</em>: International Futures data
+- <em>Master Sheet UNPD World.csv</em>: United Nations Population division data (births/deaths)
+- <em>Master Sheet UNPD.csv</em>: United Nations Population division data (global data)
 
 ## R libraries
 <code>dplyr</code>, <code>ggplot2</code>, <code>ggthemes</code>, <code>readr</code>, <code>tidyr</code>
